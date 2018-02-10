@@ -1,0 +1,12 @@
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\bin\Release\netcoreapp2.0\CoreDeployment.deps.json
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\bin\Release\netcoreapp2.0\CoreDeployment.runtimeconfig.json
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\bin\Release\netcoreapp2.0\CoreDeployment.runtimeconfig.dev.json
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\bin\Release\netcoreapp2.0\CoreDeployment.dll
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\bin\Release\netcoreapp2.0\CoreDeployment.pdb
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\obj\Release\netcoreapp2.0\CoreDeployment.csprojResolveAssemblyReference.cache
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\obj\Release\netcoreapp2.0\CoreDeployment.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\obj\Release\netcoreapp2.0\CoreDeployment.AssemblyInfoInputs.cache
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\obj\Release\netcoreapp2.0\CoreDeployment.AssemblyInfo.cs
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\obj\Release\netcoreapp2.0\CoreDeployment.dll
+C:\Users\Rachel\source\repos\CoreDeployment\CoreDeployment\obj\Release\netcoreapp2.0\CoreDeployment.pdb
